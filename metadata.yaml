@@ -1,0 +1,40 @@
+_repo: Lo-catalanisme-b-Motius-que-l-llegitiman-Fonaments-cientifichs-y-solucions-practicas_73278
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Almirall, Valentí
+    aliases:
+    - Almirall, Valenti
+    - Llozer, Valentín Almirall y
+    - Thales
+    - Amic de cada fest
+    - Llózer, Valentí Almirall i
+    birthdate: 1841
+    deathdate: 1904
+    gutenberg_agent_id: '57012'
+    url: http://www.gutenberg.org/2009/agents/57012
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Valent%C3%AD_Almirall_i_Llozer
+    - https://ca.wikipedia.org/wiki/Valent%C3%AD_Almirall_i_Llozer
+description: ''
+gutenberg_issued: '2024-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73278'
+language: ca
+pgterms:marc905: 20240325100157almirall
+pgterms:marc906: '1886'
+pgterms:marc907: ES
+production_note: 'editor digital: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bLlibreria de Verdaguer, Llibreria de Lopez, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nationalism -- Spain -- Catalonia'
+- !lcsh 'Catalonia (Spain) -- History -- Autonomy and independence movements'
+- !lcc 'DP'
+- GITenberg
+title: 'Lo catalanisme : $b Motius que''l llegitiman. Fonaments cientifichs y solucions
+  practicas'
+url: http://www.gutenberg.org/ebooks/73278
