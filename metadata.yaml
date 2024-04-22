@@ -1,5 +1,8 @@
 _repo: Lo-catalanisme-b-Motius-que-l-llegitiman-Fonaments-cientifichs-y-solucions-practicas_73278
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Almirall, Valentí
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Valent%C3%AD_Almirall_i_Llozer
     - https://ca.wikipedia.org/wiki/Valent%C3%AD_Almirall_i_Llozer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73278#Lo-catalanisme-b-Motius-que-l-llegitiman-Fonaments-cientifichs-y-solucions-practicas
 gutenberg_issued: '2024-03-28'
 gutenberg_type: Text
 identifiers:
